@@ -11,7 +11,7 @@ This Privacy Policy describes how Sportra ("we", "us", or "our") collects, uses,
 ### 1.1 Information You Provide
 - **Account information** — name, email address, and password when you register
 - **Profile information** — profile photo, sport preferences, and other details you add
-- **Payment information** — processed securely through Stripe; we do not store your card details
+- **Payment information** — bank transfer receipts or screenshots you upload to confirm a payment
 - **Communications** — messages or support requests you send us
 
 ### 1.2 Information We Collect Automatically
@@ -27,7 +27,7 @@ This Privacy Policy describes how Sportra ("we", "us", or "our") collects, uses,
 We use the information we collect to:
 
 - Create and manage your account
-- Process bookings, payments, and wallet transactions
+- Process bookings and wallet top-ups (verified via uploaded payment receipts)
 - Match you with relevant sports facilities, teams, and players nearby
 - Send transactional emails (booking confirmations, invitations, receipts)
 - Detect and prevent fraud or abuse
@@ -45,8 +45,7 @@ We use trusted third-party services to operate the App:
 
 | Provider | Purpose |
 |---|---|
-| **Stripe** | Payment processing |
-| **Cloudflare R2** | File and media storage |
+| **Cloudflare R2** | File and media storage (including payment screenshots) |
 | **Resend** | Transactional email delivery |
 | **MaxMind** | IP-based approximate geolocation |
 | **Sentry** | Error monitoring and crash reporting |
@@ -90,7 +89,9 @@ To exercise any of these rights, contact us at the email below.
 
 ## 7. Children's Privacy
 
-The App is not intended for children under the age of 13. We do not knowingly collect personal information from children under 13. If you believe a child has provided us with their information, please contact us and we will delete it promptly.
+The App is available to users of all ages, including school-age children, as it is designed for sports activities such as booking grounds and joining teams.
+
+Users under the age of 13 should use the App only with the involvement and consent of a parent or legal guardian. Parents or guardians who believe their child has provided personal information without their consent may contact us to request deletion of that data.
 
 ---
 
