@@ -1,6 +1,6 @@
 # Terms of Service
 
-**Last updated:** March 31, 2026
+**Last updated:** April 11, 2026
 
 These Terms of Service ("Terms") govern your access to and use of the Sportra mobile application ("App") operated by Sportra ("we", "us", or "our"). By creating an account or using the App, you agree to be bound by these Terms.
 
@@ -38,14 +38,17 @@ We reserve the right to suspend or permanently ban any account that violates the
 ### 4.1 Facility Bookings
 The App facilitates the booking of sports facilities. Availability and pricing are determined by facility operators. We do not guarantee the availability of any facility at the time of booking.
 
-### 4.2 Wallet Credits
-The App includes a wallet system that allows you to hold credits for use toward bookings. Wallet credits are:
-- Funded by manual bank transfers verified by our team
+### 4.2 Account Funds
+The App allows you to maintain a pre-paid balance used exclusively to pay for sports facility bookings and to participate in organized matches. The balance is:
+- Added by submitting a bank transfer and uploading proof of payment, manually reviewed and approved by our team
 - Non-refundable once credited, except at our sole discretion
 - Non-transferable to other users
 - Not redeemable for cash
 
-### 4.3 Payment Responsibility
+### 4.3 Match Payments
+For individual (player vs. player) matches, the required share of the booking cost is collected from participating players and held in a match escrow pool. Upon match finalization, funds are disbursed to cover the facility booking. If a match is cancelled, held funds are returned to participants. Your payment share is charged when you join or accept an invitation to a match; for join requests, funds are only charged upon host acceptance.
+
+### 4.4 Payment Responsibility
 By initiating a bank transfer and submitting a payment screenshot, you confirm that the payment is legitimate and authorized. We reserve the right to reverse credits if a payment is found to be fraudulent or disputed.
 
 ---
@@ -72,7 +75,7 @@ All content, design, trademarks, and technology within the App are owned by or l
 
 ## 8. Termination
 
-We may suspend or terminate your account at any time, with or without notice, if we believe you have violated these Terms or if continued access poses a risk to other users or the platform. Upon termination, your right to use the App ceases immediately. Unused wallet credits are forfeited upon termination for cause.
+We may suspend or terminate your account at any time, with or without notice, if we believe you have violated these Terms or if continued access poses a risk to other users or the platform. Upon termination, your right to use the App ceases immediately and your account will no longer be visible on the platform. Unused Sportra Credits are forfeited upon termination for cause. Because your account is linked to shared records (bookings, matches, teams, payments), account data is retained as necessary to maintain the integrity of those records and comply with legal obligations.
 
 ---
 

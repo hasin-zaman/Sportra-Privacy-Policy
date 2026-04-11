@@ -1,6 +1,6 @@
 # Privacy Policy
 
-**Last updated:** March 26, 2026
+**Last updated:** April 11, 2026
 
 This Privacy Policy describes how Sportra ("we", "us", or "our") collects, uses, and shares information about you when you use our mobile application ("App").
 
@@ -11,7 +11,7 @@ This Privacy Policy describes how Sportra ("we", "us", or "our") collects, uses,
 ### 1.1 Information You Provide
 - **Account information** — name, email address, and password when you register
 - **Profile information** — profile photo, sport preferences, and other details you add
-- **Payment information** — bank transfer receipts or screenshots you upload to confirm a payment
+- **Payment information** — bank transfer receipts or screenshots you upload when requesting to add funds to your account
 - **Communications** — messages or support requests you send us
 
 ### 1.2 Information We Collect Automatically
@@ -27,7 +27,7 @@ This Privacy Policy describes how Sportra ("we", "us", or "our") collects, uses,
 We use the information we collect to:
 
 - Create and manage your account
-- Process bookings and wallet top-ups (verified via uploaded payment receipts)
+- Process bookings and account fund additions (verified via uploaded payment receipts)
 - Match you with relevant sports facilities, teams, and players nearby
 - Send transactional emails (booking confirmations, invitations, receipts)
 - Detect and prevent fraud or abuse
@@ -70,7 +70,7 @@ No method of transmission or storage is 100% secure. We encourage you to use a s
 
 ## 5. Data Retention
 
-We retain your personal data for as long as your account is active. If you delete your account, we will delete or anonymize your personal data within 30 days, except where retention is required by law or for legitimate business purposes (e.g. transaction records).
+We retain your personal data for as long as your account is active. If you request account deletion, your account will be deactivated and will no longer be visible on the platform. Because your account is linked to booking, match, team, and payment records shared with other users, the underlying data is retained as required to maintain the integrity of those records and to comply with legal and financial obligations. We will take reasonable steps to anonymize or suppress personal identifiers where feasible.
 
 ---
 
